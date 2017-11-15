@@ -1,2 +1,1 @@
-# kicadlib
-KiCad component library
+# KiesKiCadLib
