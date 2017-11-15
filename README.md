@@ -1,0 +1,2 @@
+# kicadlib
+KiCad component library
